@@ -8,6 +8,9 @@ Key functions and dynamics of an MGA:
 * **What they don't do:** They do not hold the underlying balance-sheet risk. The capital reserves used to pay out claims belong to the backing insurance carrier (the risk bearer), not the MGA.
 * **Why it's the default model for Insurtechs:** Obtaining a full insurance carrier license requires massive capital reserves (often tens of millions of dollars) and lengthy regulatory approvals. An MGA allows a tech startup to move fast, test innovative products, and control the entire customer experience without taking on the regulatory burden of holding risk.
 
+PARAMETRIC INSURANCE ...
+<img width="696" height="440" alt="image" src="https://github.com/user-attachments/assets/00559651-dc9d-4102-9781-48cfc076180e" />
+
 
 Here is how you execute that vision step-by-step:
 
